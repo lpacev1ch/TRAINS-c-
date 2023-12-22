@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/admin/Desktop/prog/Лабы/rgr2_3/main.cpp
+iostream
+-
+string
+-
+sstream
+-
+fstream
+-
+vector
+-
+algorithm
+-
+
